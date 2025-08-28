@@ -1,0 +1,10 @@
+[flake8]
+exclude = 
+    __init__.py,
+    migrations,
+    __pycache__,
+    .pytest_cache,
+    settings.py,
+    manage.py,
+    wsgi.py,
+    asgi.py,
